@@ -54,13 +54,6 @@
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
         </nav>
-        <!--<div class="blog-masthead">
-            <div class="container">
-                <nav class="blog-nav">
-                    
-                </nav>
-            </div>
-        </div>-->
         <section class="showcase">
             <div class="container">
                 <h1><?php echo get_theme_mod('showcase_heading', 'Custom Bootstrap Wordpress Theme');?></h1>
