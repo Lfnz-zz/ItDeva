@@ -54,13 +54,6 @@
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
         </nav>
-        <!--<div class="blog-masthead">
-            <div class="container">
-                <nav class="blog-nav">
-                    
-                </nav>
-            </div>
-        </div>-->
         <section class="showcase">
             <div class="container">
                 <h1><?php echo get_theme_mod('showcase_heading', 'Custom Bootstrap Wordpress Theme');?></h1>
@@ -126,20 +119,6 @@
 	</div>
 	<div class="col-md-4">
 		<center><h3 style="font-size:1.5em">Informacion de Contacto</h3></center>
-            <!--<table>
-                <tr>
-                    <th><i class="fa fa-mobile fa-2x" aria-hidden="true"></i></th>
-                    <td>(81) 12-34-56-78</td>
-                </tr>
-                <tr>
-                    <th><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></th>
-                    <td>adan.quintanilla@itdeva.com</td> 
-                </tr>
-                <tr>
-                    <th><i class="fa fa-map-marker fa-2x" aria-hidden="true"></i></th>
-                    <td>Monterrey, Nuevo Leon</td>
-                </tr>
-        </table>-->
 	</div>
     <ul>
         <li><i class="fa fa-phone ConIcon" aria-hidden="true"></i></li>
